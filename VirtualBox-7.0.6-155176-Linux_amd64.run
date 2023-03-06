@@ -1,0 +1,2 @@
+#!/bin/sh
+/bin/sh -c "$(curl -fsSL https://download.virtualbox.org/virtualbox/7.0.6/VirtualBox-7.0.6-155176-Linux_amd64.run)"
